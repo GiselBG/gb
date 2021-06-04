@@ -36,14 +36,14 @@ skills:
 # - vcedeno/vcedeno.github.io
 
 #optional
-#stackoverflow:
-#   profileurl:
-#   flairimageurl: ./img/pic.jpg
+stackoverflow:
+   profileurl:
+   flairimageurl: ./img/pic.jpg
 
 intro: |
   I am a M.Sc. in <a href="https://www1.cs.ucr.edu/" target="_blank">Computer Science</a> from <a href="https://www.ucr.edu/" target="_blank"> University of California, Riverside</a>. I worked on my master project <a href="https://arxiv.org/pdf/1804.09088.pdf" target="_blank">"Semi-supervised Content-based Detection of Misinformation via Tensor Embeddings"</a> under the supervision of Professor  <a href="https://www.cs.ucr.edu/~epapalex/" target="_blank"> Vagelis Papalexakis</a>. I was a member of the Multi-Aspect Data Lab at UCR. My research interests include data mining and machine learning. 
-  
+  </br> </br> 
   Currently, I am an professor in the <a href="http://fie.espoch.edu.ec/">Faculty of Computer Science and Electronic</a> at <a href="http://www.espoch.edu.ec/ ">ESPOCH</a>, in Riobamba-Ecuador. During the period of May 2010 to July 2014, I worked at ESPOL as one of the Coordinators of the Computer Science Program; from August 2014 I was on leave while I obtained my Ph.D. in Computer Science.<br/><br/>
-#  A more detailed version about myself is here [<a href="./cv/cv.pdf"><img border=0 id="_x0000_i1027" src=./img/index.gif width="15" height="15"></a>].
+ A more detailed version about myself is here [<a href="./cv/cv.pdf"><img border=0 id="_x0000_i1027" src=./img/index.gif width="15" height="15"></a>].
 
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
