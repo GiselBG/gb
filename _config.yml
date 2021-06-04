@@ -1,7 +1,7 @@
 # Site settings
-title: Vanessa Cedeno-Mieles
-twitter_username: vanessaicm
-name: Vanessa Cedeno-Mieles
+title: Gisel Bastidas-Guacho
+# twitter_username: vanessaicm
+name: Gisel Bastidas-Guacho
 
 # Build settings
 markdown: kramdown
@@ -24,63 +24,25 @@ primarylinks:
 
 #Any buzzword skills you want to include
 skills:
- - Python
  - SQL
- - R
  - Pandas
- - Machine learning
- - data mining
- - agent based models
- - simulations
- - networked experiment
- - social sciences
- - Microservices
- - Java
- - Hadoop
+ - Python
+ - Machine Learning
+ - Data Mining
 
 
 #List of interesting Github repo/projects to include - optional
-github:
- - vcedeno/vcedeno.github.io
+#github:
+# - vcedeno/vcedeno.github.io
 
 #optional
-stackoverflow:
-   profileurl:
-   flairimageurl: ./img/pic.jpg
+#stackoverflow:
+#   profileurl:
+#   flairimageurl: ./img/pic.jpg
 
 intro: |
-  I am a Ph.D. in <a href="https://www.cs.vt.edu/" target="_blank">Computer Science</a> from <a href="https://www.vt.edu" target="_blank"> Virginia Polytechnic Institute and State University</a>. After 5 years of hard work, I successfully defended my doctoral thesis, <a href="https://vtechworks.lib.vt.edu/bitstream/handle/10919/91445/Cedeno_VI_D_2019.pdf" target="_blank">Pipelines for Computational Social Science Experiments and Model Building</a>, on May 2019. My advisors were <a href="https://engineering.virginia.edu/faculty/madhav-marathe"> Madhav V. Marathe</a> and <a href="https://biocomplexity.virginia.edu/christopher-kuhlman">Chris J. Kuhlman</a>. I was a Graduate Research Assistant for the Network Dynamics and Simulation Science Laboratory at Virginia Tech.<br/><br/>
-  My research interests include machine learning, data mining, simulations and networked online social science experiments. By using online controlled networked temporal social science experiments I am able to study social behavior to explore phenomena such as collective identity. My work has uncovered interesting insights about social phenomena through data analysis, simulation and modeling. <br/><br/>
-  I am an <a href="https://www.fiec.espol.edu.ec/es/cv/cede%C3%B1o-mieles-vanessa-ines">Associate Professor</a> in the <a href="https://www.fiec.espol.edu.ec/ ">School of Electrical Engineering &amp; Computer Science</a> at <a href="http://www.espol.edu.ec/ ">ESPOL</a>, in Guayaquil-Ecuador. During the period of May 2010 to July 2014, I worked at ESPOL as one of the Coordinators of the Computer Science Program; from August 2014 I was on leave while I obtained my Ph.D. in Computer Science.<br/><br/>
-  I obtained my Master in Computer Science from the <a href="https://www.cs.fsu.edu/">Computer Science Department</a> at <a href="https://www.fsu.edu/">Florida State University</a> in Summer 2010. During my studies at FSU, my advisor was  <a href="http://www.cs.utah.edu/~lifeifei/"> Feifei Li</a> and I was a member of the <a href="http://www.cs.fsu.edu/dbgroup/dbgroup.php">Database Group at FSU</a>.<br/><br/> 
-  A more detailed version about myself is here [<a href="./cv/cv.pdf"><img border=0 id="_x0000_i1027" src=./img/index.gif width="15" height="15"></a>].
+  I am a M.Sc. in <a href="https://www1.cs.ucr.edu/" target="_blank">Computer Science</a> from <a href="https://www.ucr.edu/" target="_blank"> University of California, Riverside</a>. I worked on my master project <a href="https://arxiv.org/pdf/1804.09088.pdf" target="_blank">"Semi-supervised Content-based Detection of Misinformation via Tensor Embeddings"</a> under the supervision of Professor  <a href="https://www.cs.ucr.edu/~epapalex/" target="_blank"> Vagelis Papalexakis</a>. I was a member of the Multi-Aspect Data Lab at UCR. My research interests include data mining and machine learning. 
+  Currently, I am an professor in the <a href="http://fie.espoch.edu.ec/">Faculty of Computer Science and Electronic</a> at <a href="http://www.espoch.edu.ec/ ">ESPOCH</a>, in Riobamba-Ecuador. During the period of May 2010 to July 2014, I worked at ESPOL as one of the Coordinators of the Computer Science Program; from August 2014 I was on leave while I obtained my Ph.D. in Computer Science.<br/><br/>
+#  A more detailed version about myself is here [<a href="./cv/cv.pdf"><img border=0 id="_x0000_i1027" src=./img/index.gif width="15" height="15"></a>].
 
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
-additionalinfo: |
-   - <a href=https://doi.org/10.1371/journal.pone.0242453>Data analysis and modeling pipelines for controlled networked social science experiments</a>.<br/>
-   by Vanessa Cedeno-Mieles, Zhihao Hu, Yihui Ren, Xinwei Deng, Noshir Contractor, Saliya Ekanayake, Joshua M. Epstein, Brian J. Goode, Gizem Korkmaz, Chris J. Kuhlman, Dustin Machi, Michael Macy, Madhav V. Marathe, Naren Ramakrishnan, Parang Saraf, Nathan Self.<br/>
-   <i>In <a href="https://journals.plos.org/plosone/">PLOS ONE</a>. November 24, 2020. </i>[<a href=https://journals.plos.org/plosone/article/citation/bibtex?id=10.1371/journal.pone.0242453>BIBTEX</a>]<br/><br/>
-   - <a <a href=https://arxiv.org/abs/2010.13026>On synthetic data generation for anomaly detection in complex social networks</a><br/>
-   by Andreea Sistrunk, Vanessa Cedeno, Subhodip Biswas.<br/>
-   <i>In AAAI FSS-20: Artificial Intelligence in Government and Public Sector, Washington, DC, USA.</i> [<a href="./bibtex/aaai2020.bib">BIBTEX</a>]<br/><br/> 
-   - <a href=./papers/ictd2020.pdf>Data Analysis on a Domestic Media Space Connecting Internationally Distributed Families</a><br/>
-   by Vanessa Cedeno-Mieles, Javier Tibau, Chris J. Kuhlman, Deborah Tatar, Steve Harrison.<br/> 
-   <i>In the International Conference on Information and Communication Technologies and Development. <a href="https://ictd2020.org">ICTD 2020</a>. June 17-20, Guayaquil, Ecuador.</i> [<a href="./bibtex/ictd2020.bib">BIBTEX</a>]<br/><br/>
-   - <a href=./papers/snam2020.pdf>Networked experiments and modeling for producing collective identity in a group of human subjects using an iterative abduction framework</a><br/>
-   by Vanessa Cedeno-Mieles, Zhihao Hu, Yihui Ren, Xinwei Deng, Abhijin Adiga, Christopher Barrett, Noshir Contractor, Saliya Ekanayake, Joshua M. Epstein, Brian J. Goode, Gizem Korkmaz, Chris J. Kuhlman, Dustin Machi, Michael W. Macy, Madhav V. Marathe, Naren Ramakrishnan, S. S. Ravi, Parang Saraf, Nathan Self.<br/>
-   <i>In the Social Network Analysis and Mining, <a href="https://link.springer.com/article/10.1007/s13278-019-0620-8">SNAM(Journal)</a>. Volume 10. Article 11. Published online: 07 January 2020.</i> [<a href="./bibtex/snam2020.bib">BIBTEX</a>]<br/><br/>
-   - <a href=./papers/wsc2019.pdf>On the Modeling and Agent-Based Simulation of a Cooperative Group Anagram Game</a><br/>
-   by Zhihao Hu, Xinwei Deng, Brian J. Goode, Naren Ramakrishnan, Parang Saraf, Nathan Self, Abhijin Adiga, Gizem Korkmaz, Chris J. Kuhlman, Dustin Machi, Madhav V. Marathe, S. S. Ravi, Yihui Ren, Vanessa Cedeno-Mieles, Saliya Ekanayake.<br/>
-   <i>In the Winter Simulation Conference. <a href="https://meetings2.informs.org/wordpress/wsc2019/">WSC 2019</a>. December 8-11, National Harbor, MD, USA, pp. 169-180.</i> [<a href="./bibtex/wsc2019.bib">BIBTEX</a>]<br/><br/>
-   - <a href=./papers/asonam2019.pdf>Mechanistic and Data-Driven Agent-Based Models to Explain Human Behavior in Web-Based Group Anagram Game</a><br/>
-   by Vanessa Cedeno-Mieles, Zhihao Hu, Yihui Ren, Xinwei Deng, Abhijin Adiga, Christopher Barrett, Saliya Ekanayake, Gizem Korkmaz, Chris J. Kuhlman, Dustin Machi, Madhav V. Marathe, S. S. Ravi, Brian J. Goode, Naren Ramakrishnan, Parang Saraf, Nathan Self, Noshir Contractor, Joshua M. Epstein, and Michael W. Macy.<br/>
-   <i>In the IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining. <a href="http://asonam.cpsc.ucalgary.ca/2019/">ASONAM 2019</a>. August 27-30, Vancouver, Canada.</i> [<a href="./bibtex/asonam2019.bib">BIBTEX</a>]<br/><br/>
-   - <a href=./papers/wsc2018.pdf>Pipelines and Their Compositions for Modeling and Analysis of Controlled Online Networked Social Science Experiments</a><br/>
-   by Vanessa Cedeno-Mieles, Yihui Re, Zhihao Hu, Xinwei Deng, Saliya Ekanayake, Brian J. Goode, Chris J. Kuhlman,Dustin Machi, Madhav V. Marathe,Henning H. Mortveit, Naren Ramakrishnan, Parang Saraf, Nathan Self, Noshir Contractor, Joshua M. Epstein, Michael W. Macy.<br/>
-   <i>In the Winter Simulation Conference. <a href="http://meetings2.informs.org/wordpress/wsc2018/">WSC 2018</a>. December 9-12, Gothenburg, Sweden.</i> [<a href="./bibtex/wsc2018.bib">BIBTEX</a>]<br/><br/>
-   - <a href=./papers/cikm2018.pdf>Inferring Probabilistic Contagion Models Over Networks Using Active Queries</a><br/>
-   by Abhijin Adiga, Vanessa Cedeno-Mieles, Chris Kuhlman, Madhav Marathe, S. S. Ravi, Daniel Rosenkrantz, Richard E. Stearns.<br/>
-   <i>In the 27th ACM International Conference on Information and Knowledge Management. <a href="https://www.cikm2018.units.it/">CIKM 2018</a>. October 22-26, Turin, Italy.</i> [<a href="./bibtex/cikm2018.bib">BIBTEX</a>]<br/><br/>
-   - <a href=./papers/asonam2018.pdf>Generative Modeling of Human Behavior and Social Interactions Using Abductive Analysis</a><br/>
-   by Yihui Ren, Vanessa Cedeno-Mieles, Zhihao Hu, Xinwei Deng, Abhijin Adiga, Christopher Barrett, Saliya Ekanayake, Brian J. Goode, Gizem Korkmaz, Chris J. Kuhlman, Dustin Machi, Madhav V. Marathe, Naren Ramakrishnan, S. S. Ravi, Parang Saraf, Nathan Self, Noshir Contractor, Joshua M. Epstein, Michael W. Macy.<br/>
-   <i>In the IEEE/ACM International Conference on Advances in Social Networks Analysis and Mining. <a href="http://asonam.cpsc.ucalgary.ca/2018/">ASONAM 2018</a>. August 28-31, Barcelona, Spain.</i> [<a href="./bibtex/asonam2018.bib">BIBTEX</a>]<br/><br/>
